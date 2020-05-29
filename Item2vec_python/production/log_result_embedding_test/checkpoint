@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\python\\pyworkspace\\Item2vec_python\\production\\log_result_embedding_test\\model.ckpt"
+all_model_checkpoint_paths: "G:\\python\\pyworkspace\\Item2vec_python\\production\\log_result_embedding_test\\model.ckpt"
